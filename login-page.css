@@ -34,6 +34,6 @@ login-form > input::placeholder{
 #login-form > input[type="submit"]{
     color: #fff;
     font-size: 16px;
-    background-color: #6A24FE;
+    background-color: #6A24FE; 
     margin-top: 20px;
 }		
